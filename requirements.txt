@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pillow
+langdetect
+geocoder
+streamlit
+geocoder
+langdetect
+pillow
